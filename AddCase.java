@@ -15,7 +15,7 @@ import java.math.BigDecimal;
 import java.util.List;
 import java.util.Map;
 
-/**123fenzhi0
+/**123fenzhi
  * 充值接口测试类型
  */
 public class AddCase extends BaseCase {
